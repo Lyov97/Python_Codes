@@ -1,0 +1,11 @@
+def average_List(list):
+    
+    sum = 0
+    for i in range(len(list)):
+        sum += list[i]
+        i += 1
+    avg = sum / len(list)    
+    return avg
+    
+list_example = [4,5,8,2,6,3]    
+print(average_List(list_example))
