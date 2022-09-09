@@ -1,3 +1,5 @@
+#Python Assessments_4, problem 2
+
 def average_List(list):
     
     sum = 0
