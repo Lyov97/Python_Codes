@@ -1,0 +1,9 @@
+#Python Assessments_3, problem 1
+
+def unique(lst):
+    something = set(lst)
+    go_back_to_list = list(something)
+    return go_back_to_list
+    
+list_example = [5,4,5,3,8,2,6,2,3]    
+print(unique(list_example))
