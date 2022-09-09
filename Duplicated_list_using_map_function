@@ -1,0 +1,9 @@
+#Python Assessments_3, problem 2
+
+def add(num):
+    return num + num
+    
+lst = [5,4,7,2,4]
+    
+items_duplicate = map(add,lst)
+print (list(items_duplicate))
