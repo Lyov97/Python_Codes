@@ -1,4 +1,4 @@
-#Python Day 7, Assessment 1
+#Python Day 8, Assessment 1
 
 """Question:
 Provided is a list of numbers. For each of the numbers in the list, determine whether they are 
