@@ -1,4 +1,4 @@
-#Python Day 7, Assessment 1
+#Python Day 6, Assessment 1
 #Match given 2 list elements 
 
 def match(list1,list2):
