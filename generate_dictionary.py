@@ -8,18 +8,18 @@ print the dictionary. """
 
 def generate_dictionary():
 
-n=int(input())
-d=dict()
-for i in range(1,n+1):
-    d[i]=i*i
+    n=int(input("Enter you num: "))
+    d=dict()
+    for i in range(1,n+1):
+        d[i]=i*i
 
-print(d)
+    print(d)
 generate_dictionary()
 
 #Version 2
 def gen_dicto():
 
-num=int(input("Enter a number:"))
-dicto={x:x*x for x in range(1,num+1)}
-print(dicto)
+    num=int(input("Enter a number:"))
+    dicto={x:x*x for x in range(1,num+1)}
+    print(dicto)
 gen_dicto()
