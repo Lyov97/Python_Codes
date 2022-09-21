@@ -1,4 +1,4 @@
-#Python Day 10, Assessment 2
+#Python Day 10, Problem 2
 
 '''Question: 
 Напишите программу, которая выводит чётные числа из заданного списка и
