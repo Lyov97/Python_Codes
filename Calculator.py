@@ -1,6 +1,6 @@
  #Day 13, Problem 1
  
- '''Write program to implement a calculator to do basic operations (add, substract, multiply divide)
+ '''Write program to implement a calculator to do basic operations (add, subtract, multiply divide)
  '''
  
  
